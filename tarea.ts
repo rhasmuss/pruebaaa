@@ -13,11 +13,6 @@ export class Auto {
         this.marca = _marca;
         this.modelo = _modelo;
     }
-
-
-
 }
-
-
 let aut: Auto = new Auto(4, "negro", 2, 'ferari', '2019');
 console.log(aut);
